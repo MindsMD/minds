@@ -1,5 +1,19 @@
 # Minds
 
-Feel free to draft your thoughts via [issues](https://github.com/zakirullin/minds/issues/new).
+## What is welcomed
+- High quality content :)
+- Long-form, insightful, concise articles
 
-https://minds.md
+Check out existing content to get an idea: https://minds.md
+
+## What is not welcomed
+- Fluff and generic takes 
+- Marketing and self-promotion  
+- AI-generated content
+
+## How I can contribute
+Feel free to draft your thoughts via [issues](https://github.com/MindsMD/minds/issues/new).
+
+You can also contribute posts from blogs that aren't live anymore. Great content ages like fine wine - it only gets better with time. 
+
+
