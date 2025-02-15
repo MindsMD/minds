@@ -75,3 +75,5 @@ Surprised at this development, I ask him why.
 "Good for you!!"
 
 "This thing comes with documentation, right?"
+
+[Readable version](https://minds.md/benji/frameworks)

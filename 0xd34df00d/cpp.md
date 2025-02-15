@@ -17,3 +17,5 @@ There were 20 ways of initialization. Uniform initialization syntax has been add
 I had to come up with some rules. Like, if that line of code is not as obvious and I have to remember the standard, I better not write it that way. The standard is somewhat 1500 pages long, by the way.
 
 **By no means I am trying to blame C++.** I love the language. It's just that I am tired now.
+
+[Readable version](https://minds.md/0xd34df00d/cpp)
