@@ -1,4 +1,4 @@
-# Minds
+# minds.md
 
 ## What is welcomed
 - High quality content :)
